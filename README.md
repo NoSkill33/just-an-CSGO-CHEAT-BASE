@@ -1,4 +1,4 @@
-# Simple CS:GO Cheat BAse
+# Simple CS:GO Cheat Base
 > ### Simple cheat base writen in c++
 
 # Screenshot
