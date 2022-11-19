@@ -1,4 +1,0 @@
-﻿C:\Program Files\Microsoft Visual Studio\2022\Community\MSBuild\Microsoft\VC\v170\Microsoft.CppBuild.targets(502,5): warning MSB8004: Intermediate Directory does not end with a trailing slash.  This build instance will add the slash as it is required to allow proper evaluation of the Intermediate Directory.
-  gui.cpp
-C:\Users\NoSkill\source\repos\hack\source\gui.cpp(355,9): error C2374: 'oriWndProc': redefinition; multiple initialization
-C:\Users\NoSkill\source\repos\hack\source\gui.cpp(25,9): message : see declaration of 'oriWndProc'
